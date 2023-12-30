@@ -1,0 +1,10 @@
+.horizontal-slider {
+    width: 100%;
+    overflow-x: auto;
+    padding: 10px;
+  }
+  
+  .card-container {
+    display: inline-flex;
+  }
+  
